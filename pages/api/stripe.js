@@ -34,8 +34,8 @@ export default async function handler(req, res) {
             quantity: item.quantity
           }
         }),
-        success_url: "http://localhost:3000/success",
-        cancel_url: "http://localhost:3000/canceled",
+        success_url: "https://e-commerce-wheat-seven.vercel.app/success",
+        cancel_url: "https://e-commerce-wheat-seven.vercel.app/canceled",
       }
 
       // Create Checkout Sessions from body params.
