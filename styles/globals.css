@@ -96,7 +96,7 @@ width: 100%;
 }
 @media screen and (max-width:600px) {
     .cart-container,.cart-bottom{
-      padding-left: 50px;
+      padding-left: 100px;
     }
   }
 .products-container{
