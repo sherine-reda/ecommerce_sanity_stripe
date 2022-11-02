@@ -94,6 +94,11 @@ width: 100%;
   font-weight: 600;
 
 }
+@media screen and (max-width:800px) {
+    .cart-container,.cart-bottom{
+      padding-left: 50px;
+    }
+  }
 .products-container{
   display: flex;
   flex-wrap: wrap;
