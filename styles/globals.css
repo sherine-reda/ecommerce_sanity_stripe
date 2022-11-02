@@ -94,7 +94,7 @@ width: 100%;
   font-weight: 600;
 
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     .cart-container,.cart-bottom{
       padding-left: 50px;
     }
