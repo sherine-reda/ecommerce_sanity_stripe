@@ -94,9 +94,14 @@ width: 100%;
   font-weight: 600;
 
 }
-@media screen and (max-width:600px) {
-    .cart-container,.cart-bottom{
-      padding-left: 100px;
+@media screen and (max-width:800px) {
+    .cart-container{
+      padding-left: 50px;
+    }
+  }
+@media screen and (max-width:800px) {
+   .total h3{
+      padding-left: 20px;
     }
   }
 .products-container{
